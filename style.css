@@ -1,0 +1,25 @@
+*{
+    padding: 0;
+    margin: 0;
+    color: white;
+    
+}
+
+
+#navbar{
+    height: 30px;
+    width: auto;
+    background-color: rgb(34, 33, 33);
+}
+
+#navbar a{
+    position: relative;
+    top: 5px;
+    margin-top: 20px;
+    margin-right: 200px;
+    text-decoration: none;
+}
+#navbar i{
+    position: relative;
+    top: 5px;
+}
